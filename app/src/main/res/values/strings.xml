@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Peliculas</string>
+    <string name="nombre1">Big Hero</string>
+    <string name="sino_BigHero">When a devastating event befalls the city of San Fransokyo and catapults Hiro into the midst of danger, he turns to Baymax and his close friends adrenaline junkie Go Go Tomago, neatnik Wasabi, chemistry whiz Honey Lemon and fanboy Fred. Determined to uncover the mystery, Hiro transforms his friends into a band of high-tech heroes called Big Hero</string>
+    <string name="nombre2">Toy Story</string>
+    <string name="sino_Story">Toy Story is about the secret life of toys when people are not around. When Buzz Lightyear, a space-ranger, takes Woody\'s place as Andy\'s favorite toy, Woody doesn\'t like the situation and gets into a fight with Buzz. Accidentaly Buzz falls out the window and Woody is accused by all the other toys of having killed him. He has to go out of the house get into all kind of trouble while trying to get home.</string>
+    <string name="nombre3">1917</string>
+    <string name="sino_1917">British trenches somewhere in France. World war has been going on for the third year, heroic illusions have dissipated; general mood - boredom and fatigue. Stuff the belly, sleep, return home to Christmas Eve. On another quiet day, when nothing happens, two young soldiers, Blake and Schofield, are summoned to the general, who instructs them to send an important message to Colonel MacKenzie in the Second Devonshire Battalion, whose telephone connection was cut off by the enemy.</string>
+    <string name="nombre4">Friends</string>
+    <string name="sino_Friends">Rachel Green, Ross Geller, Monica Geller, Joey Tribbiani, Chandler Bing and Phoebe Buffay are six 20 something year-olds, living off of one another in the heart of New York City. Over the course of ten years, this average group of buddies goes through massive mayhem, family trouble, past and future romances, fights, laughs, tears and surprises as they learn what it really means to be a friend.</string>
+    <string name="nombre5">Bones</string>
+    <string name="sino_Bones">Dr. Temperance Brennan is a brilliant, but lonely, anthropologist whom is approached by an ambitious FBI agent, named Seely Booth, to help the bureau solve a series of unsolved crimes by identifying the long-dead bodies of missing persons by their bone structure. But both Agent Booth and Dr. Brennan and her team come up again a variety of interference from red tape, corruption, and local noncooperation.</string>
+</resources>
